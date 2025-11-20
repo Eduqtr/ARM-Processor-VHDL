@@ -1,0 +1,28 @@
+# Vivado files
+*.jou
+*.log
+*.str
+*.xpr
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+
+# ModelSim files
+*.mpf
+*.mti
+work/
+transcript
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Results (optional - remove if you want to track them)
+# *.txt
