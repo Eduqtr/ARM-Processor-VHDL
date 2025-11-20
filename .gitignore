@@ -26,3 +26,7 @@ Thumbs.db
 
 # Results (optional - remove if you want to track them)
 # *.txt
+
+git add .gitignore
+git commit -m "Add .gitignore to exclude Vivado, ModelSim and OS files"
+git push
